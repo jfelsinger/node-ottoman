@@ -16,7 +16,8 @@
   "dependencies": {
     "couchbase": "git+https://github.com/couchbase/couchnode.git",
     "underscore": "~1.5.2",
-    "node-uuid": "~1.4.1"
+    "node-uuid": "~1.4.1",
+    "moment": "^2.8.4"
   },
   "devDependencies": {
     "mocha": "~1.13.0",
